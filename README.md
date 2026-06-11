@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20%26%20AI%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=260&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
 
 <p>
   <a href="https://www.rashidbuilds.com">

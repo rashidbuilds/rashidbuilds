@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20%26%20AI%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
 
 <p>
   <a href="https://www.rashidbuilds.com">
@@ -25,16 +25,22 @@
 
 ## 👋 About Me
 
-I'm **Rashid Ali** — a Full Stack Engineer from **Lahore, Pakistan** with ~3 years of production experience building scalable web systems, microservices architectures, and automation tools.
+I'm **Rashid Ali** — a Full Stack Engineer from **Lahore, Pakistan** with ~3 years of production experience. I work across the entire stack — from architecture and backend systems to frontend, deployment, and automation.
 
-I independently designed and deployed **Paynex** — a complete POS and fiscalized payment system compliant with Croatia's government fiscalization requirements, built on AWS using microservices. That project alone covers fiscal API integration, real-time receipt processing, multi-tenant architecture, and production-grade cloud deployment.
+What I actually do:
 
-Beyond that, I build SaaS products, AI-powered automation tools, and internal platforms — mostly solo, from architecture to deployment.
+- 🏗️ **Full Stack Development** — Next.js, React, Node.js, REST APIs, TypeScript, from zero to production
+- ⚙️ **Backend & Microservices** — Express.js, PostgreSQL, MongoDB, Redis, RabbitMQ, Socket.io, modular and distributed systems
+- ☁️ **Cloud & DevOps** — AWS (EC2, S3, RDS, CloudFront, Route53), Docker, GitHub Actions, PM2, Linux server admin
+- 🤖 **Automation & AI Integration** — web scraping pipelines, custom rules engines, LLM/AI API integration (Gemini, Claude, OpenAI), agentic workflows, and AI-powered SaaS tooling
+- 📱 **Mobile** — React Native + Expo cross-platform apps
+- 🔍 **SEO & Performance** — technical SEO, Core Web Vitals, schema markup, Next.js optimization
 
-- 📍 **Location:** Lahore, Pakistan — open to remote globally
-- 🔭 **Currently building:** A Local Business Intelligence Engine (proprietary lead scoring + outreach automation SaaS)
-- 💡 **Approach:** Ship real products, not just side projects
+I don't just build features — I ship complete systems. From database schema to CI/CD pipeline, solo.
+
+- 📍 **Based in:** Lahore, Pakistan — available for remote globally
 - ✍️ **Writing:** [rashidbuilds.com/blogs](https://www.rashidbuilds.com/blogs)
+- 🌐 **Portfolio:** [rashidbuilds.com/portfolio](https://www.rashidbuilds.com/portfolio)
 
 ---
 
@@ -69,53 +75,21 @@ Beyond that, I build SaaS products, AI-powered automation tools, and internal pl
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 Paynex — Fiscalized POS & Payment System
-> **Production · Microservices · AWS · Croatia Government Compliance**
-
-A complete point-of-sale and payment platform built independently and deployed to production on AWS. Fully compliant with Croatia's government fiscalization requirements — real fiscal API integration, not a demo.
-
-- Microservices architecture across multiple independently deployed services
-- Real-time fiscal receipt processing with government API compliance
-- Multi-tenant support, role-based access, full audit trail
-- EC2 deployment with S3, RDS, and load balancing
-
-`Node.js` `PostgreSQL` `AWS EC2/S3/RDS` `Docker` `REST APIs` `Microservices`
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-### 🤖 Local Business Intelligence Engine *(Private — In Development)*
-> **SaaS · Proprietary Rules Engine · Outreach Automation**
+## 🚀 Notable Work
 
-A B2B SaaS tool for agencies and freelancers to identify and reach out to underperforming local businesses. Zero dependency on external AI APIs — fully deterministic rules engine for audit scoring, with outreach-user-type-aware email personalization across 5 distinct sender profiles.
+I've built and shipped production systems across POS & payments, SaaS automation, AI-powered platforms, and real-time applications. Most of my serious work is private or client-owned.
 
-- Category-specific website audit engine (technical signals, not screenshots)
-- Human-written email template pools — no per-email AI cost
-- Multiple user-type profiles: web agencies, SEO agencies, SaaS founders, etc.
-- Apollo-style pre-scraped lead database model
-
-`Node.js` `Python` `PostgreSQL` `Redis` `OpenCV/Pillow` `AWS`
-
----
-
-### 🧠 BrainPilot — AI Content OS
-> **Next.js · MongoDB · Gemini 1.5 Flash · Three-layer pipeline**
-
-An AI-powered content generation platform for creators and founders. Built a three-layer content pipeline: idea extraction → structure generation → output formatting. Designed for speed and volume without sacrificing output quality.
-
-`Next.js` `MongoDB` `Node.js` `Gemini 1.5 Flash` `Tailwind CSS`
-
----
-
-### 😓 StressIQ — Facial Stress Analysis App
-> **DeepFace · Flask · Next.js · Multi-model pipeline**
-
-Real-time stress detection via facial emotion recognition. DeepFace-based backend in Flask, with a Node.js middleware layer and Next.js frontend. Generates a stress report with actionable insights from a single webcam capture.
-
-`Python` `Flask` `DeepFace` `Node.js` `Next.js` `OpenCV`
+📂 Full case studies and breakdowns → **[rashidbuilds.com/portfolio](https://www.rashidbuilds.com/portfolio)**
 
 ---
 
@@ -132,17 +106,17 @@ Real-time stress detection via facial emotion recognition. DeepFace-based backen
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- Check out my writing at **[rashidbuilds.com/blogs](https://www.rashidbuilds.com/blogs)**
+- Read my articles at **[rashidbuilds.com/blogs](https://www.rashidbuilds.com/blogs)**
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🤝 Let's Connect
 
-Building something ambitious? Need a senior full stack engineer for a remote role or a complex product build? Let's talk.
+Open to remote full stack roles, serious freelance projects, and product collabs.
 
 <div align="center">
 
@@ -159,6 +133,6 @@ Building something ambitious? Need a senior full stack engineer for a remote rol
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=130&section=footer" />
 
 </div>

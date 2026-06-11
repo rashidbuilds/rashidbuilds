@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=260&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20%26%20AI%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
 
 <p>
   <a href="https://www.rashidbuilds.com">
@@ -25,20 +25,21 @@
 
 ## 👋 About Me
 
-I'm **Rashid Ali** — a Full Stack Engineer from **Lahore, Pakistan** with ~3 years of production experience. I work across the entire stack — from architecture and backend systems to frontend, deployment, and automation.
+I'm **Rashid Ali** — a Full Stack Engineer from **Lahore, Pakistan** with ~3 years of production experience. I work across the entire stack — from architecture and backend systems to frontend, cloud deployment, and intelligent automation.
 
 What I actually do:
 
-- 🏗️ **Full Stack Development** — Next.js, React, Node.js, REST APIs, TypeScript, from zero to production
-- ⚙️ **Backend & Microservices** — Express.js, PostgreSQL, MongoDB, Redis, RabbitMQ, Socket.io, modular and distributed systems
+- 🏗️ **Full Stack Development** — Next.js, React, Node.js, REST APIs, TypeScript — from zero to production
+- ⚙️ **Backend & Microservices** — distributed systems, PostgreSQL, MongoDB, Redis, RabbitMQ, Socket.io
 - ☁️ **Cloud & DevOps** — AWS (EC2, S3, RDS, CloudFront, Route53), Docker, GitHub Actions, PM2, Linux server admin
-- 🤖 **Automation & AI Integration** — web scraping pipelines, custom rules engines, LLM/AI API integration (Gemini, Claude, OpenAI), agentic workflows, and AI-powered SaaS tooling
+- 🤖 **Automation & Agentic AI** — scraping pipelines, rules engines, LLM integration (Gemini, Claude, OpenAI), agentic workflows, AI-powered SaaS tooling
 - 📱 **Mobile** — React Native + Expo cross-platform apps
 - 🔍 **SEO & Performance** — technical SEO, Core Web Vitals, schema markup, Next.js optimization
 
 I don't just build features — I ship complete systems. From database schema to CI/CD pipeline, solo.
 
 - 📍 **Based in:** Lahore, Pakistan — available for remote globally
+- 🔭 **Currently building:** Proprietary B2B SaaS automation platform
 - ✍️ **Writing:** [rashidbuilds.com/blogs](https://www.rashidbuilds.com/blogs)
 - 🌐 **Portfolio:** [rashidbuilds.com/portfolio](https://www.rashidbuilds.com/portfolio)
 
@@ -77,19 +78,52 @@ I don't just build features — I ship complete systems. From database schema to
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-## 🚀 Notable Work
+## 🚀 Featured Projects
 
-I've built and shipped production systems across POS & payments, SaaS automation, AI-powered platforms, and real-time applications. Most of my serious work is private or client-owned.
+### 🏦 Paynex — Fiscalized POS & Payment System
+> Production · Microservices · AWS · Croatia Government Fiscalization Compliant
 
-📂 Full case studies and breakdowns → **[rashidbuilds.com/portfolio](https://www.rashidbuilds.com/portfolio)**
+A complete point-of-sale and fiscal payment platform built and deployed independently. Fully compliant with Croatia's government fiscalization requirements — live in production.
+
+`Node.js` `PostgreSQL` `AWS` `Docker` `Microservices` `REST APIs`
+
+---
+
+### 🤖 Local Business Intelligence Engine *(Private — In Development)*
+> B2B SaaS · Lead Intelligence · Outreach Automation
+
+A SaaS platform for agencies and freelancers to identify and reach underperforming local businesses with personalized outreach — built entirely on proprietary logic, no external AI dependency.
+
+`Node.js` `Python` `PostgreSQL` `Redis` `AWS`
+
+---
+
+### 🧠 BrainPilot — AI Content OS
+> Next.js · MongoDB · Gemini 1.5 Flash
+
+AI-powered content generation platform for creators and founders. Multi-stage content pipeline from idea to publishable output.
+
+`Next.js` `MongoDB` `Node.js` `Gemini 1.5 Flash` `Tailwind CSS`
+
+---
+
+### 😓 StressIQ — Facial Stress Analysis
+> Python · Flask · DeepFace · Next.js
+
+Real-time stress detection via facial emotion recognition. Single webcam capture generates a full stress report with actionable insights.
+
+`Python` `Flask` `DeepFace` `Node.js` `Next.js` `OpenCV`
+
+---
+
+📂 Full case studies → **[rashidbuilds.com/portfolio](https://www.rashidbuilds.com/portfolio)**
 
 ---
 

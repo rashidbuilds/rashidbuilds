@@ -1,25 +1,8 @@
-<div align="center">
+local nahi live per hi test kar raha hun pehle thek tha 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=230&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20%26%20AI%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" />
 
-<p>
-  <a href="https://www.rashidbuilds.com">
-    <img src="https://img.shields.io/badge/Portfolio-rashidbuilds.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rashidbuilds">
-    <img src="https://img.shields.io/badge/LinkedIn-rashidbuilds-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hello@rashidbuilds.com">
-    <img src="https://img.shields.io/badge/Email-hello@rashidbuilds.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.rashidbuilds.com/resume">
-    <img src="https://img.shields.io/badge/Resume-Download-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=rashidbuilds&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Rashid%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Specialist&descSize=16&descAlignY=58&descColor=e2e8f0" /> <p> <a href="https://www.rashidbuilds.com"> <img src="https://img.shields.io/badge/Portfolio-rashidbuilds.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://linkedin.com/in/rashidbuilds"> <img src="https://img.shields.io/badge/LinkedIn-rashidbuilds-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:hello@rashidbuilds.com"> <img src="https://img.shields.io/badge/Email-hello@rashidbuilds.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.rashidbuilds.com/resume"> <img src="https://img.shields.io/badge/Resume-Download-f97316?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=rashidbuilds&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" /> </div>
 
 ---
 
